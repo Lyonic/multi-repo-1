@@ -25,3 +25,7 @@
 var a =1
 console.log(a)
 ```
+
+我的网站是 [我的官网](https://Lyonic.com)
+
+![一张图片](1.png)
